@@ -7,3 +7,5 @@
 3. `npm run dev`
 
 its that easy
+
+everything on main is automatically deployed on [kech.je](https://kech.je)
